@@ -1,0 +1,115 @@
+Seattle, Spokane, 50
+Spokane, Seattle, 50
+Seattle, Tacoma, 100
+Seattle, Vancouver, 30
+Vancouver, Seattle, 30
+Spokane, Vancouver, 25
+Spokane, Bellevue, 120
+Bellevue, Seattle, 15
+Bellevue, Kent, 20
+Kent, Bellevue, 20
+Bellevue, Renton, 35
+Renton, Bellevue, 35
+Bellevue, Kirkland, 14
+Kirkland, Bellevue, 14
+Renton, Kirkland, 26
+Kirkland, Renton, 26
+Kirkland, Redmond, 15
+Redmond, Kirkland, 15
+Redmond, Sammamish, 20
+Sammamish, Redmond, 20
+Redmond, Medina, 30
+Medina, Redmond, 30
+Medina, Sammamish, 25
+Redmond, Mercer Island, 24
+Mercer Island, Redmond, 24
+Mercer Island, Sammamish, 26
+Medina, Mercer Island, 10
+Bothell, Mercer Island, 37
+Bothell, Federal Way, 40
+Federal Way, Mercer Island, 45
+Yakima, Federal Way, 85
+Yakima, Bellingham, 90
+Bellingham, Yakima, 90
+Bellingham, Auburn, 83
+Bellingham, Marysville, 55
+Marysville, Bellingham, 55
+Marysville, South Hill, 67
+South Hill, Marysville, 67
+South Hill, Bellevue, 90
+South Hill, Seattle, 140
+South Hill, Olympia, 65
+Olympia, South Hill, 65
+Olympia, Seattle, 130
+Seattle, Olympia, 130
+Olympia, Marysville, 100
+Olympia, Bellevue, 125
+Olympia, Richland, 45
+Richland, Olympia, 45
+Richland, Issaquah, 75
+Issaquah, Bainbridge Island, 80
+Issaquah, Lake Tapps, 55
+Lake Tapps, Bainbridge Island, 65
+Issaquah, Prairie Ridge, 90
+Prairie Ridge, Lake Tapps, 87
+Prairie Ridge, Cheney, 45
+Cheney, Kelso, 65
+Kelso, Issaquah, 87
+Kelso, Maltby, 38
+Maltyby, Praire Ridge, 90
+Maltby, Newcastle, 100
+Newcastle, Kelso, 130
+Newcastle, Enumclaw, 75
+Enumclaw, Richland, 78
+Richland, Enumclaw, 78
+Richland, Minnehaha, 160
+Minnehaha, Enumclaw, 35
+Minnehaha, Newcastle, 60
+Minnehaha, Bellevue, 200
+Minehaha, Sedro-Woolley, 45
+Sedro-Wolley, Richland, 75
+Sedro-Wolley, East Renton Highlands, 67
+East Renton Highlands, Maltby, 75
+East Renton Highlands, Grandview, 83
+Grandview, East Renton Highlands, 83
+Grandview, Liberty Lake, 45
+Grandview, Gig Harbor, 80
+Gig Harbor, Liberty Lake, 85
+Gig Harbor, Sumner, 78
+Sumner, Liberty Lake, 87
+Sumner, Gig Harbor, 35
+Sumner, Grandview, 45
+Sumner, Snohomish, 55
+Snohomish, Sumner, 55
+Snohomish, Vashon, 65
+Vashon, Sumner, 45
+Vashon, Gig Harbor, 78
+Vashon, Port Townsend, 90
+Port Townsend, Vashon, 90
+Port Townsend, Dupont, 25
+Dupont, Vashon, 68
+Dupont, Burlington, 120
+Burlington, Midland, 35
+Burlington, Dupont, 55
+Burlington, Bellevue, 200
+Burlington, Ridgefield, 56
+Burlington, Birch Bay, 60
+Birch Bay, Bellevue, 240
+Birch Bay, Picnic Point, 65
+Birch Bay, Seattle, 125
+Seattle, Birch Bay, 125
+Birch Bay, Picnic Point, 60
+Picnic Point, Birch Bay, 60
+Picnic Point, Toppenish, 80
+Toppenish, Seattle, 140
+Toppenish, Midland, 35
+Toppenish, Mount Vista, 40
+Mount Vista, Picnic Point, 120
+Mount Vista, Fairwood, 15
+Fairwood, Mount Vista, 15
+Fairwood, Toppenish, 105
+Fairwood, Seattle, 35
+Seattle, Fairwood, 35
+Fairwood, Bellevue, 45
+Fairwood, Birch Bay, 20
+Fairwood, Burlinton, 50
